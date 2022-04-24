@@ -34,7 +34,7 @@ const Home = () => {
       <BlogCard img={img6} />
       <BlogCard img={img6} />
       <BlogCard img={img6} />
-      <Homebtn text="->" />
+      <Homebtn text="->"/>
       <BottomNavbar />
     </div>
   )
